@@ -1,0 +1,18 @@
+[submodule "arpack"]
+	path = arpack
+	url = git@github.com:chrisjohgorman/arpack.git
+[submodule "octave"]
+	path = octave
+	url = git@github.com:chrisjohgorman/octave.git
+[submodule "openblas"]
+	path = openblas
+	url = git@github.com:chrisjohgorman/openblas.git
+[submodule "qrupdate"]
+	path = qrupdate
+	url = git@github.com:chrisjohgorman/qrupdate.git
+[submodule "suitesparse"]
+	path = suitesparse
+	url = git@github.com:chrisjohgorman/suitesparse.git
+[submodule "sundials"]
+	path = sundials
+	url = git@github.com:chrisjohgorman/sundials.git
